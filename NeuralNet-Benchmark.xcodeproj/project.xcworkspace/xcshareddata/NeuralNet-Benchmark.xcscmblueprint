@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1B7CEE3ABD16B3D5F1F3BB6208B95149FC8978DC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1B7CEE3ABD16B3D5F1F3BB6208B95149FC8978DC" : 9223372036854775807,
+    "E9EE4C7903562F63A88C3DB0CECC9BE83CB86167" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E79D8B5C-D0CB-470D-8924-4C576C810A0D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1B7CEE3ABD16B3D5F1F3BB6208B95149FC8978DC" : "NeuralNet-Benchmark\/",
+    "E9EE4C7903562F63A88C3DB0CECC9BE83CB86167" : "NeuralNet-Benchmark\/.build\/checkouts\/NeuralNet.git--3758077493241246937\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NeuralNet-Benchmark",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NeuralNet-Benchmark.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Swift-AI\/NeuralNet-Benchmark.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1B7CEE3ABD16B3D5F1F3BB6208B95149FC8978DC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Collin\/Documents\/Swift%20AI\/NeuralNet-Benchmark\/.build\/repositories\/NeuralNet.git--3758077493241246937",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E9EE4C7903562F63A88C3DB0CECC9BE83CB86167"
+    }
+  ]
+}
