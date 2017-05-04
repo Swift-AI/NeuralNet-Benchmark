@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		F07C05D71EBAE2CF00B1A18D /* PBXContainerItemProxy */ = {
+		F0F3B93E1EBAE4590035D351 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
@@ -203,7 +203,7 @@
 		OBJ_43 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = OBJ_22 /* NeuralNet */;
-			targetProxy = F07C05D71EBAE2CF00B1A18D /* PBXContainerItemProxy */;
+			targetProxy = F0F3B93E1EBAE4590035D351 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
